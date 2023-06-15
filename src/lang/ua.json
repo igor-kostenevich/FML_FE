@@ -1,0 +1,29 @@
+{
+  "Create account": "Створити акаунт",
+  "Reset password": "Скинути пароль",
+  "Log in": "Зайти в систему",
+  "Login": "Увійти",
+  "Name": "Ім'я",
+  "Your name": "Ваше ім'я",
+  "Email": "Пошта",
+  "Password": "Пароль",
+  "Confirm password": "Підтвердити пароль",
+  "Forgot password?": "Забули пароль?",
+  "Registration": "Зареєструватися",
+  "Have account?": "Є акаунт?",
+  "Don't have account?": "Немає акаунту?",
+  "Logout": "Вийти",
+  "Settings": "Налаштування",
+  "Navigation": "Навігація",
+  "Dashboard": "Дашбоард",
+  "Budget": "Бюджет",
+  "validation": {
+    "required_field": "Обов'язкове поле",
+    "valid_email": "Введіть правильний email",
+    "valid_password": "Пароль повинен містити щонайменше 6 символів",
+    "min_length": "Довжина має бути не менше {val} символів",
+    "max_length": "Довжина має бути не більше {val} символів",
+    "only_numbers": "Використовуйте лише числа",
+    "password_mismatch": "Паролі не співпадають"
+  }
+}

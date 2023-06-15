@@ -1,0 +1,3 @@
+npm install vue-router
+npm install vuex@next --save
+npm install axios

@@ -1,0 +1,29 @@
+{
+  "Create account": "Create account",
+  "Reset password": "Reset password",
+  "Log in": "Log in",
+  "Login": "Login",
+  "Your name": "Your name",
+  "Name": "Name",
+  "Email": "Email",
+  "Password": "Password",
+  "Confirm password": "Confirm password",
+  "Forgot password?": "Forgot password?",
+  "Registration": "Registration",
+  "Have account?": "Have account?",
+  "Don't have account?": "Don't have account?",
+  "Logout": "Logout",
+  "Settings": "Settings",
+  "Navigation": "Navigation",
+  "Dashboard": "Dashboard",
+  "Budget": "Budget",
+  "validation": {
+    "required_field": "Required field",
+    "valid_email": "Enter a valid email",
+    "valid_password": "The password must contain at least 6 characters",
+    "min_length": "Length must be at least {val} characters",
+    "max_length": "Length must not exceed {val} characters",
+    "only_numbers": "Use only numbers",
+    "password_mismatch": "Passwords do not match"
+  }
+}

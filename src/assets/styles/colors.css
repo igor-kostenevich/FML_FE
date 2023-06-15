@@ -1,0 +1,6 @@
+:root {
+  --white: theme('colors.white');
+  --black: theme('colors.black.DEFAULT');
+  --primary: theme('colors.primary.DEFAULT');
+  --secondary: theme('colors.secondary.DEFAULT');
+}
